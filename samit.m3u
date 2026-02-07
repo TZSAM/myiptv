@@ -45,10 +45,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/tsports/mono.ts.m3u8
 #EXTINF:0,Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1,Rtv
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/rtv/mono.ts.m3u8
-#EXTINF:-1,Ekhon Tv
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/ekhon/mono.ts.m3u8
 #EXTINF:0,Deshi TV HD
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:43,DEEPTO TV HD
@@ -65,8 +61,6 @@ https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonyaath/mono.ts.m3u8
 #EXTINF:57,Amar Bangla
 http://115.187.41.216:8080/hls/amarbangla/index.m3u8
-#EXTINF:23,Live6
-http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:0,Sony Sab
 http://217.20.112.199:8888/sabtvhd/index.m3u8
 #EXTINF:0,Sony TV
@@ -80,7 +74,7 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonymax2/mono.ts.m3u8
 #EXTINF:-1,&Pictures
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/andpictures/mono.ts.m3u8
 #EXTINF:-1,Colors
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/colors/mono.ts.m3u8
+http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1,Zee tv
 http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeetv/mono.ts.m3u8
 #EXTINF:-1,Star Plus
