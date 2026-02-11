@@ -90,9 +90,9 @@ http://jmrj02jibon02khan.vercel.app/tracks-v1a1/andpictures/mono.ts.m3u8
 #EXTINF:-1,Colors
 http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1,Zee tv
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/zeetv/mono.ts.m3u8
+http://198.195.239.50:8095/ZeeTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/starplus/mono.ts.m3u8
+http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:24,SANGEET BANGLA
 https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
 #EXTINF:57,Amar Bangla Digital
@@ -210,6 +210,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:32,Al Jazeera English HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
 
 
 
