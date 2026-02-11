@@ -63,9 +63,9 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:24,NRB Tv
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:0,Star Jalsha Movies
+#EXTINF:0,Jalsha Movies
 http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
-#EXTINF:0,Star Zee Bangla Cinema
+#EXTINF:0,Zee Bangla Cinema
 http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Bangla HD
 https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
@@ -138,8 +138,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/19146/index.m3u8
 #EXTINF:115,Sky Cricket
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8
-#EXTINF:-1,Jalsha Movies
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/starjalshamovies/mono.ts.m3u8
 #EXTINF:11,LotusTV
 http://163.61.227.29:8000/play/a03u/index.m3u8
 #EXTINF:60,Action Hollywood Movies
@@ -210,6 +208,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:32,Al Jazeera English HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
 
 
 
