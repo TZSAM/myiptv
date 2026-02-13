@@ -80,13 +80,11 @@ http://217.20.112.199:8888/sabtvhd/index.m3u8
 #EXTINF:0,Sony TV
 http://217.20.112.199/sethd/index.m3u8
 #EXTINF:-1,Sony max
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonymax/mono.ts.m3u8
+https://edge2.roarzone.info:8444/roarzone/edge3/sony-max/index.m3u8?token=1f3a9a9b41e6b507e2c1b57dc5768d5ef6e259d5-19fff43012cc1e8928a1685e87c7f6f2-1770998578-1770994978
 #EXTINF:-1,Sony max hd
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonymaxhd/mono.ts.m3u8
-#EXTINF:-1,Sony max 2
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonymax2/mono.ts.m3u8
+https://edge2.roarzone.info:8444/roarzone/edge3/sony-max-hd/index.m3u8?token=e827eead38bd7cb1aa8fd772de95f24df36e5e8b-f6bcc324e3060e80b097607def767e63-1770998578-1770994978
 #EXTINF:-1,&Pictures
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/andpictures/mono.ts.m3u8
+https://edge2.roarzone.info:8444/roarzone/edge3/pictures-hd/index.m3u8?token=ff444613a5ff2aaef3de1a16274bf958acf364df-4148b6087360ffa011db392d4ea8a998-1770998578-1770994978
 #EXTINF:-1,Colors
 http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1,Zee tv
@@ -203,6 +201,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:32,Al Jazeera English HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
 
 
 
