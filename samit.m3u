@@ -35,8 +35,6 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:0,DBC
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-#EXTINF:0,RTV
-https://allinonereborn.xyz/filextv/live157.php?id=516709
 #EXTINF:0,Ekhon Tv
 https://edge2.roarzone.info:8444/roarzone/edge3/ekhon-tv/index.m3u8?token=f82189dd6cedabab41aa071ac3ab4e9a553fb6d6-a86277bbb52a9403bec9e5f8c59fe692-1770998578-1770994978
 #EXTINF:0,Global Tv
@@ -114,20 +112,17 @@ https://app.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8
 #EXTINF:0,PTV Sports
 http://198.195.239.50:8095/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Sports 1 HD
-#http://103.182.170.32:8888/play/a040
-https://starsportshindiii.pages.dev/index.m3u8
-#EXTINF:-1,Star Sports 1
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/starsports1/mono.ts.m3u8
+https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-1/index.m3u8?token=94a7c4ed7b9d2a4de2bc17eaed42510caa0722ce-7df293b0d277f0576f3114b8cc3f0897-1770998578-1770994978
 #EXTINF:0,Star Sports 2 HD Hindi
 http://103.182.170.32:8888/play/a04p
 #EXTINF:-1,Sony Ten Sports 1
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonyten1/mono.ts.m3u8
+https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=8d6f753882c74c4211be3e2924061560cea8db94-c02b4867f54554fa0d383c847bea14c1-1770998578-1770994978
 #EXTINF:-1,Sony Ten Sports 2
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonyten2/mono.ts.m3u8
+https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-2-hd/index.m3u8?token=6c28902d4e27a65b5a58a497c055aabdf37d3b69-1409858b1e618592f9c7863d99a40870-1770998578-1770994978
 #EXTINF:-1,Sony Ten Sports 3
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonyten3/mono.ts.m3u8
-#EXTINF:-1,Sony Six
-http://jmrj02jibon02khan.vercel.app/tracks-v1a1/sonysix/mono.ts.m3u8
+https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-3-hd/index.m3u8?token=eb4d312fefa426b8d8f2a9ea4a0dd5c2e3cde416-ecbfaf539418e6df30835e3886c6129e-1770998578-1770994978
+#EXTINF:-1,ten cricket
+https://edge2.roarzone.info:8444/roarzone/edge3/sony-ten-cricket/index.m3u8?token=e21cb977540c7c9770e947d0a661b070c1e76135-40c87b7e69bea30759068857beb35fb8-1770998578-1770994978
 #EXTINF:11,A SportsHD
 http://163.61.227.29:8000/play/a03t/index.m3u8
 #EXTINF:60,RTA Sport
@@ -208,6 +203,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:32,Al Jazeera English HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
 
 
 
