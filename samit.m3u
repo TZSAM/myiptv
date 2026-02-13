@@ -69,6 +69,8 @@ http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Bangla HD
 https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
+#EXTINF:0,Star Jalsa HD HD
+http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 #EXTINF:0,Colors Bangla HD
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1,Sony Aath
@@ -201,6 +203,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:32,Al Jazeera English HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
 
 
 
