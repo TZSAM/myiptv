@@ -4,7 +4,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:0,ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
 #EXTINF:0, Asian tv
-https://allinonereborn.xyz/filextv/live157.php?id=516707
+https://edge2.roarzone.info:8444/roarzone/edge3/asian-tv/index.m3u8?token=60019057a0a16f56d87155c8c86d7f6c82139802-f58355f45a2da130af860fb3883c0a65-1770998578-1770994978
 #EXTINF:0,Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=2202800.m3u8
 #EXTINF:0,Ekushe ETV
@@ -14,7 +14,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 #EXTINF:0,Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=2202800.m3u8
 #EXTINF:24,Ananda TV
-http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
+https://edge2.roarzone.info:8444/roarzone/edge3/ananda-tv/index.m3u8?token=a85619e369fe9fe37c5a357558f07c26cb42ac33-b36abee650cb0831439e4d145f96e9c1-1770998578-1770994978
 #EXTINF:0,ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:0,Channel 24
@@ -25,8 +25,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
 #EXTINF:0,Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
-#EXTINF:32,Channel A1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:32,Channel S
+https://edge2.roarzone.info:8444/roarzone/edge3/channel-s/index.m3u8?token=ad26c0709f6936fcefa4eb2712d628244c07f882-693d14366dd63d33682842cb5bdb9db6-1770998578-1770994978
 #EXTINF:0,ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:0,Jago News 24
@@ -37,12 +37,12 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:0,RTV
 https://allinonereborn.xyz/filextv/live157.php?id=516709
-#EXTINF:0,SATV
-https://allinonereborn.xyz/filextv/live157.php?id=516710
+#EXTINF:0,Ekhon Tv
+https://edge2.roarzone.info:8444/roarzone/edge3/ekhon-tv/index.m3u8?token=f82189dd6cedabab41aa071ac3ab4e9a553fb6d6-a86277bbb52a9403bec9e5f8c59fe692-1770998578-1770994978
 #EXTINF:0,Global Tv
-https://allinonereborn.xyz/filextv/live157.php?id=516714
+https://edge2.roarzone.info:8444/roarzone/edge3/global-tv/index.m3u8?token=8d2bf919a9ae79bff3f2006f33c3f3e7c99ccb24-782326c1114920b25f4c5197ada6aef5-1770998578-1770994978
 #EXTINF:0,Bangla TV
-https://allinonereborn.xyz/filextv/live157.php?id=516716
+https://edge2.roarzone.info:8444/roarzone/edge3/bangla-tv/index.m3u8?token=15eef46d2f49e76a3637ae4f37e0603f6a544f47-9c66f35605c2f848580ade0f11580e5a-1770998578-1770994978
 #EXTINF:0,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:0,Nagorik TV
@@ -208,6 +208,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:32,Al Jazeera English HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
 
 
 
