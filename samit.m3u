@@ -4,7 +4,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:0,ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
 #EXTINF:0, Asian tv
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
+https://allinonereborn.online/iptv-web/live3.php?id=57973
 #EXTINF:0,Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=2202800.m3u8
 #EXTINF:0,Ekushe ETV
@@ -26,27 +26,29 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-vid
 #EXTINF:0,Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 #EXTINF:32,Channel S
-https://edge2.roarzone.info:8444/roarzone/edge3/channel-s/index.m3u8?token=ad26c0709f6936fcefa4eb2712d628244c07f882-693d14366dd63d33682842cb5bdb9db6-1770998578-1770994978
+https://allinonereborn.online/iptv-web/live3.php?id=48979
 #EXTINF:0,ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:0,Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:0,NTV UK
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:0,RTV 
+https://allinonereborn.online/iptv-web/live3.php?id=57967
+#EXTINF:0,SATV 
+https://allinonereborn.online/iptv-web/live3.php?id=48744
 #EXTINF:0,DBC
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:0,Ekhon Tv
-https://edge2.roarzone.info:8444/roarzone/edge3/ekhon-tv/index.m3u8?token=f82189dd6cedabab41aa071ac3ab4e9a553fb6d6-a86277bbb52a9403bec9e5f8c59fe692-1770998578-1770994978
-#EXTINF:0,Global Tv
-https://edge2.roarzone.info:8444/roarzone/edge3/global-tv/index.m3u8?token=8d2bf919a9ae79bff3f2006f33c3f3e7c99ccb24-782326c1114920b25f4c5197ada6aef5-1770998578-1770994978
+https://allinonereborn.online/iptv-web/live3.php?id=57877
+#EXTINF:0,Desh Tv
+https://allinonereborn.online/iptv-web/live3.php?id=10449
 #EXTINF:0,Bangla TV
-https://edge2.roarzone.info:8444/roarzone/edge3/bangla-tv/index.m3u8?token=15eef46d2f49e76a3637ae4f37e0603f6a544f47-9c66f35605c2f848580ade0f11580e5a-1770998578-1770994978
+https://allinonereborn.online/iptv-web/live3.php?id=34573
 #EXTINF:0,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:0,Nagorik TV
 https://allinonereborn.online/iptv-web/live3.php?id=59580
 #EXTINF:-1,Gazi TV
-http://198.195.239.50:8095/bdixbd.net_gazitvhd/video.m3u8
+https://allinonereborn.online/iptv-web/live3.php?id=58015
 #EXTINF:-1,T Sports HD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports
@@ -203,6 +205,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:32,Al Jazeera English HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
 
 
 
