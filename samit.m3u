@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:28,BTV
-http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge1/3/index.ll.m3u8?token=18ae378b76aac523fc46af89cb378cfdd16d4d65-099991a92628d340874316ce4bdd1ba1-1781208931-1781198131
 #EXTINF:0,ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
 #EXTINF:0, Asian tv
