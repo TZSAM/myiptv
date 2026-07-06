@@ -92,9 +92,7 @@ http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
 #EXTINF:0,Colors Bangla Cinema
 http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
 #EXTINF:-1,Sony Aath
-http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
-#EXTINF:57,Amar Bangla
-http://115.187.41.216:8080/hls/amarbangla/index.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Sony Sab
 http://217.20.112.199:8888/sabtvhd/index.m3u8
 #EXTINF:0,Sony TV
@@ -108,11 +106,11 @@ https://edge2.roarzone.info:8444/roarzone/edge3/pictures-hd/index.m3u8?token=ff4
 #EXTINF:-1,Colors
 http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1,Zee tv
-http://198.195.239.50:8095/ZeeTV/tracks-v1a1/mono.m3u8
+https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 #EXTINF:-1,Star Plus
 http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:24,SANGEET BANGLA
-https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
+https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:0,Star Sports 1 HD
 http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8
 #EXTINF:0,Star Sports 2 HD
