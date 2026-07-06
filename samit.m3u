@@ -27,8 +27,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 #EXTINF:32,Channel S
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:32,Channel 0
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:0,Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:0,RTV 
@@ -87,20 +85,22 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:43,Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:43,Channel 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1181200.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:24,NRB Tv
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:0,Jalsha Movies
-http://premiumtvs.space/live/jen12345/Jen54321/23304.ts
+http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
 http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Bangla Cinema
 http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Bangla HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
-#EXTINF:0,Star Jalsa HD HD
-http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
-#EXTINF:0,Colors Bangla HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
+http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
+#EXTINF:0,Star Jalsa HD
+http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8
+#EXTINF:0,Colors Bangla
+http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
+#EXTINF:0,Colors Bangla Cinema
+http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
 #EXTINF:-1,Sony Aath
 http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:57,Amar Bangla
@@ -140,9 +140,9 @@ https://app.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8
 #EXTINF:0,PTV Sports
 http://198.195.239.50:8095/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Sports 1 HD
-https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-1/index.m3u8?token=94a7c4ed7b9d2a4de2bc17eaed42510caa0722ce-7df293b0d277f0576f3114b8cc3f0897-1770998578-1770994978
-#EXTINF:0,Star Sports 2 HD Hindi
-http://103.182.170.32:8888/play/a04p
+http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8
+#EXTINF:0,Star Sports 2 HD
+http://180.94.28.28:8097//Star-Sports-2/index.fmp4.m3u8
 #EXTINF:-1,Sony Ten Sports 1
 https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=8d6f753882c74c4211be3e2924061560cea8db94-c02b4867f54554fa0d383c847bea14c1-1770998578-1770994978
 #EXTINF:-1,Sony Ten Sports 2
