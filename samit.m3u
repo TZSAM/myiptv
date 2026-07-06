@@ -13,9 +13,6 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
 #EXTINF:0,Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=2202800.m3u8
-#EXTINF:24,Ananda TV
-https://edge2.roarzone.info:8444/roarzone/edge3/ananda-tv/index.m3u8?token=a85619e369fe9fe37c5a357558f07c26cb42ac33-b36abee650cb0831439e4d145f96e9c1-1770998578-1770994978
-#EXTINF:0,ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:0,Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
@@ -51,8 +48,6 @@ https://sm-monirul.top/toffee/play/bangla_tv.m3u8
 http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:0,Global TV
 http://116.204.149.16/globaltv/index.m3u8
-#EXTINF:0,Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:0,Nagorik TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Gazi TV
@@ -60,13 +55,11 @@ https://allinonereborn.online/iptv-web/live3.php?id=58015
 #EXTINF:-1,FIFA
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 #EXTINF:-1,FIFA
-http://premiumtvs.space/live/jen12345/Jen54321/745149.ts
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 #EXTINF:-1,FIFA
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1,FIFA
 http://premiumtvs.space/live/jen12345/Jen54321/89.ts
-#EXTINF:-1,Bein Sport
-http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
 #EXTINF:-1,T Sports HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/756462
 http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
@@ -74,16 +67,13 @@ http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:0,Somoy TV
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
-#EXTINF:0,Somoy TV
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:0,News 24
-http://198.195.239.50:8095/News24/tracks-v1a1/mono.m3u8
 #EXTINF:0,Deshi TV HD
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:43,DEEPTO TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:43,Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
+http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8
 #EXTINF:43,Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:24,NRB Tv
@@ -92,7 +82,7 @@ https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
 http://180.94.28.28:8097//JALSHA-MOVIES/index.m3u8
 #EXTINF:0,Zee Bangla Cinema
-http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
 #EXTINF:0,Zee Bangla HD
 http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
 #EXTINF:0,Star Jalsa HD
