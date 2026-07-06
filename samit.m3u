@@ -90,7 +90,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 #EXTINF:0,Jalsha Movies
 http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
-http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+http://180.94.28.28:8097//JALSHA-MOVIES/index.m3u8
 #EXTINF:0,Zee Bangla Cinema
 http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zee Bangla HD
@@ -123,46 +123,24 @@ http://198.195.239.50:8095/ZeeTV/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:24,SANGEET BANGLA
 https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
-#EXTINF:57,Amar Bangla Digital
-http://115.187.41.216:8080/hls/amardigital/index.m3u8
-#EXTINF:76,Me Tv
-https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:24,Nobanno Tv
-https://app.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
-#EXTINF:72,Mon Bangla
-http://115.187.41.216:8080/hls/montvbangla/index.m3u8
-#EXTINF:33,PCV
-https://padmaonline.duckdns.org:8088/pcv/tracks-v1a1/mono.m3u8
-#EXTINF:24,Nan Tv
-https://app.ncare.live/live-orgin/nantv.stream/playlist.m3u8
-#EXTINF:24,BiswaBangla 24 Tv
-https://app.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8
-#EXTINF:0,PTV Sports
-http://198.195.239.50:8095/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Sports 1 HD
 http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8
 #EXTINF:0,Star Sports 2 HD
 http://180.94.28.28:8097//Star-Sports-2/index.fmp4.m3u8
 #EXTINF:-1,Sony Ten Sports 1
-https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=8d6f753882c74c4211be3e2924061560cea8db94-c02b4867f54554fa0d383c847bea14c1-1770998578-1770994978
+http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u8
 #EXTINF:-1,Sony Ten Sports 2
-https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-2-hd/index.m3u8?token=6c28902d4e27a65b5a58a497c055aabdf37d3b69-1409858b1e618592f9c7863d99a40870-1770998578-1770994978
+http://180.94.28.28:8097//Sony-Ten-2/index.fmp4.m3u8
 #EXTINF:-1,Sony Ten Sports 3
-https://edge2.roarzone.info:8444/roarzone/edge2/sony-sports-3-hd/index.m3u8?token=eb4d312fefa426b8d8f2a9ea4a0dd5c2e3cde416-ecbfaf539418e6df30835e3886c6129e-1770998578-1770994978
-#EXTINF:-1,ten cricket
-https://edge2.roarzone.info:8444/roarzone/edge3/sony-ten-cricket/index.m3u8?token=e21cb977540c7c9770e947d0a661b070c1e76135-40c87b7e69bea30759068857beb35fb8-1770998578-1770994978
-#EXTINF:11,A SportsHD
-http://163.61.227.29:8000/play/a03t/index.m3u8
-#EXTINF:60,RTA Sport
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
-#EXTINF:60,DD Sports 2.0
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:112,Fox Cricket 501
-http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/19146/index.m3u8
-#EXTINF:115,Sky Cricket
-http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8
-#EXTINF:11,LotusTV
-http://163.61.227.29:8000/play/a03u/index.m3u8
+http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8
+#EXTINF:-1,Sony Ten Sports 3
+http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8
+#EXTINF:11,PTV Sports
+http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
+#EXTINF:60,A Sports
+http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8
+#EXTINF:60,BEIN-SPORTS-1
+http://180.94.28.28:8097//BEIN-SPORTS-1/index.fmp4.m3u8
 #EXTINF:60,Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:58,Shemaroo Bollywood
