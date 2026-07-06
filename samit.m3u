@@ -30,7 +30,7 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108833
 http://116.204.149.16/rtvhd/index.m3u8
 #EXTINF:0,MyTV
-http://116.204.149.16/mytv/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0,Maasranga
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
 #EXTINF:0,SATV 
@@ -129,66 +129,16 @@ http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
 http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8
 #EXTINF:60,BEIN-SPORTS-1
 http://180.94.28.28:8097//BEIN-SPORTS-1/index.fmp4.m3u8
-#EXTINF:60,Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:58,Shemaroo Bollywood
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:11,COLORS CINEPLEX SUPERHITS
-http://163.61.227.29:8000/play/a04c/index.m3u8
-#EXTINF:11,ZEE ANMOL CINEMA
-http://163.61.227.29:8000/play/a04j/index.m3u8
-#EXTINF:11,Zee Anmol Cinema 2
-http://110.39.27.47:8001/play/a03w/index.m3u8
-#EXTINF:0,FILMAX
-http://163.61.227.29:8000/play/a02o/index.m3u8
-#EXTINF:0,FILMAZIA
-http://163.61.227.29:8000/play/a02l/index.m3u8
-#EXTINF:0,B4U MOVIES
-http://163.61.227.29:8000/play/a047/index.m3u8
-#EXTINF:0,GOLDMINES MOVIES
-http://163.61.227.29:8000/play/a04l/index.m3u8
-#EXTINF:0,Movies Thriller
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:0,START WORLD
-https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-#EXTINF:48,START Air HD
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-#EXTINF:50,The Movie Club
-https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
-#EXTINF:54,South Station
-https://jmp2.uk/stvp-IN3800008CX
-#EXTINF:60,B4U Movies
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
-#EXTINF:60,9X Music
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
-#EXTINF:0,B4U Music
-https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/de456a2b-b6f5-4afe-a222-5d2d6e885526/0.m3u8
-#EXTINF:102,Zoom 2
+#EXTINF:102,Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:22,Balleballe TV HD
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:0,Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:55,Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:0,Disney Junior
-http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:0,Disney Channel
-http://103.182.170.32:8888/play/a04g
-#EXTINF:0,Nick
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:60,Zoo Moo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:23,Discovery HD
-http://151.80.18.177:86/Discovery_HD/index.m3u8
-#EXTINF:11,National Geographic
-http://163.61.227.29:8000/play/a01d/index.m3u8
+#EXTINF:23,Discovery Bangla
+http://103.180.212.191:3500/live/573.m3u8
 #EXTINF:23,National Geographic
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:60,Wild Nature
-https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:0,ARY Zindagi
-http://163.61.227.29:8000/play/a03o/index.m3u8
 #EXTINF:40,CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:1800,DW NEWS
@@ -197,34 +147,4 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:32,Al Jazeera English HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
